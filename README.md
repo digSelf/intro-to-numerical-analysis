@@ -58,3 +58,4 @@ See [here](bibliography.md) for bibliography and related online courses and lear
 * [Lectures | Dropbox](https://www.dropbox.com/sh/ubkqwrqxnukgllc/AAA2cH9r7YQL7WmYVt-bblxta?dl=0)
 * [Github: 18.330: Introduction to Numerical Analysis | Spring 2020](https://github.com/PKUFlyingPig/MIT18.330/tree/spring20)
 * [Julia 1.9 Documentation](https://docs.julialang.org/en/v1/)
+* [Round-off error proof](https://en.wikipedia.org/wiki/Round-off_error)
